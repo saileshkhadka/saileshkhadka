@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Voeux Information Technology LLC - Dubai, UAE
-- 🌱 I’m currently learning and deep diving into latest tech, I love music, travelling 
+- 🔭 I’m currently working as DevOps Engineer in Dubai, UAE
+- 🌱 I’m currently learning and deep diving into latest tech related to cloud , I love music, travelling 
 - 👯 I’m looking to collaborate on mainly on DevOps Projects and many other software developments projects too.
 - 💬 Ask me about devops consultaion, some gigs, and many more
 
