@@ -11,9 +11,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about devops consultaion, some gigs, and many more
 
 - 📫 How to reach me: 
-  contact: +971-522675242
-  email: saileshkhadka1@gmail.com
-  youtube: https://www.youtube.com/@saileshkhadka08
+  - contact: +971-522675242
+  - email: saileshkhadka1@gmail.com
+  - youtube: https://www.youtube.com/@saileshkhadka08
+  - check my portfolio: saileshkhadka08.com.np
   
 - 😄 Pronouns: No pronouns yet
 - ⚡ Fun fact: im Introvert 
