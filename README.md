@@ -16,6 +16,5 @@ Here are some ideas to get you started:
   - contact: +971-522675242
   - email: saileshkhadka1@gmail.com
   
-- 😄 Pronouns: No pronouns yet
 - ⚡ Fun fact: im Introvert 
 
